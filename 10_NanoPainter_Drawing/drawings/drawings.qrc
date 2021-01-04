@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/drawings"/>
+    <qresource prefix="/drawings" lang="mainView.qml">
+        <file>mainView.qml</file>
+    </qresource>
+</RCC>

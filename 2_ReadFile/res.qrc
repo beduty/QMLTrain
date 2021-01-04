@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/melani.PNG</file>
+        <file>res/my_file.txt</file>
+        <file>res/BattryWInsp.ini</file>
+    </qresource>
+</RCC>

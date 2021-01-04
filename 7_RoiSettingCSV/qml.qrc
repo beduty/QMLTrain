@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Roi.qml</file>
+    </qresource>
+</RCC>

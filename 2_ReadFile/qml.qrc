@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>animatedLabel.qml</file>
+        <file>Input.qml</file>
+        <file>MovedText.qml</file>
+    </qresource>
+</RCC>

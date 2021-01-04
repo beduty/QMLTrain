@@ -1,0 +1,1 @@
+I need to display a string on a simulation screen. For that I'm supposed to read the text from an existing Filename.txt/Filename.csv file. The text parameter is updated as shown in the below piece of code. I need to access the string from a text file and use it in MarqueeText element. The Accessed string shall be used in the text field of the MarqueeText element.

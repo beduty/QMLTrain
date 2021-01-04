@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/features"/>
+    <qresource prefix="/features" lang="mainView.qml">
+        <file>mainView.qml</file>
+        <file>images/pattern1.png</file>
+        <file>images/pattern2.png</file>
+        <file>images/pattern3.png</file>
+        <file>images/qnanopainter_small.png</file>
+        <file>images/quit_logo2.png</file>
+        <file>fonts/Pacifico.ttf</file>
+        <file>TopBar.qml</file>
+    </qresource>
+</RCC>
